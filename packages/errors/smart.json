@@ -1,0 +1,11 @@
+{
+  "name": "errors",
+  "description": "A pattern to display application errors to the user",
+  "homepage": "asdf",
+  "author": "jonathan <linojon@gmail.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/asdf",
+  "packages": {
+    
+  }
+}
