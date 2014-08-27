@@ -1,6 +1,6 @@
 
-Template.postsList.helpers({
-  posts: function(){
-    return Posts.find({}, {sort: {submitted: -11}});
-  }
-});
+// Template.postsList.helpers({
+//   posts: function(){
+//     return Posts.find({}, {sort: {submitted: -11}});
+//   }
+// });
